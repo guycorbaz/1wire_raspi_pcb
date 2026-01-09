@@ -2335,7 +2335,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Additional pin functions:\nhttps://pinout.xyz/"
+	(text " "
 		(exclude_from_sim no)
 		(at 179.07 180.34 0)
 		(effects
